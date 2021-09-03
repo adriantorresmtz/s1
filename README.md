@@ -21,7 +21,7 @@ git clone https://github.com/bknds/ng-pi-admin.git
 
 npm install
 
-ng serve 
+mpm start
 
 localhost:4200
 ```
